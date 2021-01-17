@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import PasswordStrengthBackground from './components/PasswordStrengthBackground'
 
 const App = () => {
-  return <placeholder />
+  return <PasswordStrengthBackground />
 }
 
 export default App
