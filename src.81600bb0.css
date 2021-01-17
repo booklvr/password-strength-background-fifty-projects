@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300&display=swap");*{box-sizing:border-box}body{font-family:Roboto,sans-serif;height:100vh;margin:0}#root{height:100%;width:100%;display:flex;align-items:center;justify-content:center;overflow:hidden;margin:0}.background{background:url(https://images.unsplash.com/photo-1556745757-8d76bdb6984b) no-repeat 50%/cover;position:absolute;top:-20px;bottom:-20px;left:-20px;right:-20px;z-index:-1;filter:blur(20px)}
+/*# sourceMappingURL=src.81600bb0.css.map */
